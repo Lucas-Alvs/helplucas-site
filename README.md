@@ -10,7 +10,7 @@ Site institucional para serviços de suporte técnico em computadores.
 
 ## 📱 Contato
 WhatsApp: (19) 99491-2339  
-Site: https://helplucas.com
+Site: (https://lucas-alvs.github.io/helplucas-site/)
 
 ## 🌐 Deploy
 Este site está hospedado via GitHub Pages.
